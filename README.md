@@ -25,3 +25,5 @@ https://awscertificationpractice.benchprep.com/app/aws-certified-security-specia
 https://aws.amazon.com/certification/certification-prep/
 
 [AWS-Certified-Security-Specialty_Exam-Guide.pdf](https://github.com/r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-Certified-Security-Specialty-SCS-C01/blob/main/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
+
+[aws-security-incident-response-guide.pdf](https://github.com/r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-Certified-Security-Specialty-SCS-C01/blob/main/aws-security-incident-response-guide.pdf)
