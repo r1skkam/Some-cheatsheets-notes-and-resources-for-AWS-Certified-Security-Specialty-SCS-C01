@@ -22,6 +22,8 @@ https://explore.skillbuilder.aws/learn/course/12473/play/48845
 
 https://awscertificationpractice.benchprep.com/app/aws-certified-security-specialty-official-practice-question-set#exams/details/151031
 
+https://ensign.udemy.com/course/aws-certified-security-specialty/learn/lecture/29047850#overview
+
 https://aws.amazon.com/certification/certification-prep/
 
 [AWS-Certified-Security-Specialty_Exam-Guide.pdf](https://github.com/r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-Certified-Security-Specialty-SCS-C01/blob/main/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
