@@ -13,3 +13,6 @@ for visibility and remediation.
 
 ![image](https://github.com/r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-Certified-Security-Specialty-SCS-C01/assets/58542375/e01785f5-6d2c-4b69-9e1e-e64f37f54238)
 
+[Finding types - Amazon GuardDuty](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html)
+
+[Amazon GuardDuty](https://docs.aws.amazon.com/guardduty/index.html)
