@@ -17,3 +17,5 @@
 **Question 5**
 
 ![image](https://github.com/r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-Certified-Security-Specialty-SCS-C01/assets/58542375/b536116b-9e35-4c22-be8e-0f0a59834ac5)
+
+![image](https://github.com/r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-Certified-Security-Specialty-SCS-C01/assets/58542375/c98d3503-ec06-4927-aa42-779b1de0d624)
