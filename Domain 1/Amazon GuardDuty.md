@@ -16,3 +16,8 @@ for visibility and remediation.
 [Finding types - Amazon GuardDuty](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html)
 
 [Amazon GuardDuty](https://docs.aws.amazon.com/guardduty/index.html)
+
+```
+Amazon GuardDuty is a continuous security monitoring service.
+Amazon GuardDuty can help to identify unexpected and potentially unauthorized or malicious activity in your AWS environment.
+```
