@@ -16,3 +16,5 @@ AWS WAF is a web application firewall that lets you monitor web requests that ar
 Amazon CloudFront distributions or an Application Load Balancer. You can also use AWS WAF to block or allow requests
 based on conditions that you specify, such as the IP addresses that requests originate from or values in the requests.
 ```
+
+[Run Curl Commands Online](https://reqbin.com/curl)
