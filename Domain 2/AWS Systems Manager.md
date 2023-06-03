@@ -40,3 +40,12 @@ through Amazon CloudWatch Events, or executed directly through the AWS Managemen
 Automation can track the execution of each step in a playbook, require approvals, incrementally roll out changes,
 and automatically halt the rollout if errors occur.
 ```
+
+[AWS Systems Manager Inventory - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-inventory.html)
+
+https://console.aws.amazon.com/systems-manager/inventory
+
+![[inventory-cards.png]]
+
+![[inventory-resource-data-sync.png]]
+
