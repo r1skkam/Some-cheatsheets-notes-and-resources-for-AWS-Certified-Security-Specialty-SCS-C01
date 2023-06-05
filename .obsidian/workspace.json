@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain 2/AWS Systems Manager.md",
+                "file": "Domain 2/Amazon CloudWatch.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b8f129c550c4be43",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain 2/AWS Systems Manager.md",
+                "file": "Domain 2/Amazon CloudWatch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain 2/AWS Systems Manager.md",
+                "file": "Domain 2/Amazon CloudWatch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain 2/AWS Systems Manager.md"
+                "file": "Domain 2/Amazon CloudWatch.md"
               }
             }
           }
@@ -157,9 +157,12 @@
   },
   "active": "66dc6a88f2f5cc7c",
   "lastOpenFiles": [
+    "Domain 2/Amazon Inspector.md",
+    "Domain 2/Amazon CloudWatch.md",
+    "Product-Page-Diagram_Amazon-CloudWatch.095eb618193be7422d2d34e3abd5fdf178b6c0e2.png",
+    "Domain 2/AWS Systems Manager.md",
     "inventory-resource-data-sync.png",
     "inventory-cards.png",
-    "Domain 2/Domain 2 (General notes).md",
-    "Domain 2/AWS Systems Manager.md"
+    "Domain 2/Domain 2 (General notes).md"
   ]
 }
