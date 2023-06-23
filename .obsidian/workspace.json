@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0fc1c9ef3f9f3bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "db54d1beed5fb865",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 669.5
+    "width": 408.5
   },
   "right": {
     "id": "b8f129c550c4be43",
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -158,29 +171,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66dc6a88f2f5cc7c",
+  "active": "0fc1c9ef3f9f3bf9",
   "lastOpenFiles": [
-    "00_Overview/Domain 1 - Incident Response.md",
-    "Domain 2 - Logging and Monitoring/Domain 2 (General notes).md",
-    "00_Overview",
-    "inventory-resource-data-sync.png",
-    "inventory-cards.png",
     "00_Overview/Domain 5 - Data Protection.md",
     "00_Overview/Domain 4 - Identity and Access Management.md",
     "00_Overview/Domain 3 - Infrastructure Security.md",
     "00_Overview/Domain 2 - Logging and Monitoring.md",
-    "Domain 2 - Logging and Monitoring/Diagram/Product-Page-Diagram_Amazon-CloudWatch.095eb618193be7422d2d34e3abd5fdf178b6c0e2.png",
-    "Domain 2 - Logging and Monitoring/Diagram",
-    "Domain 5 - Data Protection/Diagram/product-page-diagram_AWS-CloudHSM_HIW.76ce14889e22d8861a6a9fff0b5664516ed1bddd.png",
+    "00_Overview/Domain 1 - Incident Response.md",
     "Domain 5 - Data Protection/AWS CloudHSM.md",
-    "Domain 5 - Data Protection/Diagram",
     "Domain 1 - Incident Response/Amazon CloudWatch.md",
+    "conflict-files-obsidian-git.md",
+    "inventory-resource-data-sync.png",
+    "inventory-cards.png",
+    "Domain 5 - Data Protection/Diagram/product-page-diagram_AWS-CloudHSM_HIW.76ce14889e22d8861a6a9fff0b5664516ed1bddd.png",
+    "Domain 2 - Logging and Monitoring/Diagram/Product-Page-Diagram_Amazon-CloudWatch.095eb618193be7422d2d34e3abd5fdf178b6c0e2.png",
+    "Domain 2 - Logging and Monitoring/Amazon CloudWatch.md",
+    "README.md",
+    "Domain 1 - Incident Response/Document - Unified CloudWatch Agent.md",
+    "Domain 2 - Logging and Monitoring/Domain 2 (General notes).md",
+    "00_Overview",
+    "Domain 2 - Logging and Monitoring/Diagram",
+    "Domain 5 - Data Protection/Diagram",
     "AWS-Certified-Security-Specialty_Exam-Guide.pdf",
     "Domain 3 - Infrastructure Security",
     "Domain 4 - Identity and Access Management",
     "Domain 5 - Data Protection",
     "Appendix.md",
-    "Domain 2 - Logging and Monitoring/Amazon CloudWatch.md",
     "Domain 2 - Logging and Monitoring/Amazon Inspector.md",
     "Domain 2 - Logging and Monitoring/AWS Systems Manager.md"
   ]

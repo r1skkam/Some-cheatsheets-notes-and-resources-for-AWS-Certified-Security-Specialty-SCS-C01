@@ -15,3 +15,7 @@ to streamline your infrastructure and application maintenance.
 Amazon CloudWatch provides a reliable, scalable, and flexible monitoring solution that you can start using within minutes.
 You no longer need to set up, manage, and scale your own monitoring systems and infrastructure.
 ```
+
+[Collect metrics and logs from Amazon EC2 instances and on-premises servers with the CloudWatch agent - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent.html)
+
+[aws/amazon-cloudwatch-agent: CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server.](https://github.com/aws/amazon-cloudwatch-agent)
