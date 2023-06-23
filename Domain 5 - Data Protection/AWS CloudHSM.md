@@ -15,6 +15,19 @@
 ![[product-page-diagram_AWS-CloudHSM_HIW.76ce14889e22d8861a6a9fff0b5664516ed1bddd.png]]
 
 
-
-
 [AWS CloudHSM - AWS cryptography services](https://docs.aws.amazon.com/crypto/latest/userguide/awscryp-service-hsm.html)
+
+*AWS CloudHSM is a cryptographic service for creating and maintaining hardware security modules (HSMs) in your AWS environment. HSMs are computing devices that process cryptographic operations and provide secure storage for cryptographic keys. You can use AWS CloudHSM to offload SSL/TLS processing for web servers, protect private keys linked to an issuing certificate authority (CA), or enable Transparent Data Encryption (TDE) for Oracle databases.*
+
+When you use an HSM from AWS CloudHSM, you can perform a variety of cryptographic tasks:
+
+- Generate, store, import, export, and manage cryptographic keys, including symmetric keys and asymmetric key pairs.
+    
+- Use symmetric and asymmetric algorithms to encrypt and decrypt data.
+    
+- Use cryptographic hash functions to compute message digests and hash-based message authentication codes (HMACs).
+    
+- Cryptographically sign data (including code signing) and verify signatures.
+    
+- Generate cryptographically secure random data.
+

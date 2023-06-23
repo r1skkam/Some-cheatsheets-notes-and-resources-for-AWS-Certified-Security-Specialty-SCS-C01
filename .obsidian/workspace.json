@@ -8,32 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66dc6a88f2f5cc7c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "00_Overview/inventory-resource-data-sync.png"
-              }
-            }
-          },
-          {
-            "id": "d21c5b8edbb0cbcd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "00_Overview/inventory-cards.png"
-              }
-            }
-          },
-          {
             "id": "80cdae7a45df21c2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "00_Overview/inventory-cards.png"
+                "file": "Domain 5 - Data Protection/AWS CloudHSM.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -41,16 +23,13 @@
             "id": "db54d1beed5fb865",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Appendix.md",
-                "mode": "source",
-                "source": false
+                "file": "AWS-Certified-Security-Specialty_Exam-Guide.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Overview/inventory-cards.png",
+                "file": "Domain 5 - Data Protection/AWS CloudHSM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Overview/inventory-cards.png",
+                "file": "Domain 5 - Data Protection/AWS CloudHSM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Overview/inventory-cards.png"
+                "file": "Domain 5 - Data Protection/AWS CloudHSM.md"
               }
             }
           }
@@ -177,8 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96bb6d9c387ba3c1",
+  "active": "80cdae7a45df21c2",
   "lastOpenFiles": [
+    "Domain 2 - Logging and Monitoring/Amazon CloudWatch.md",
+    "Domain 5 - Data Protection/AWS CloudHSM.md",
+    "AWS-Certified-Security-Specialty_Exam-Guide.pdf",
+    "Appendix.md",
     "00_Overview/inventory-resource-data-sync.png",
     "00_Overview/inventory-cards.png",
     "README.md",
@@ -188,21 +171,17 @@
     "00_Overview/Domain 3 - Infrastructure Security.md",
     "00_Overview/Domain 2 - Logging and Monitoring.md",
     "00_Overview/Domain 1 - Incident Response.md",
-    "Domain 5 - Data Protection/AWS CloudHSM.md",
     "Domain 1 - Incident Response/Amazon CloudWatch.md",
     "Domain 5 - Data Protection/Diagram/product-page-diagram_AWS-CloudHSM_HIW.76ce14889e22d8861a6a9fff0b5664516ed1bddd.png",
     "Domain 2 - Logging and Monitoring/Diagram/Product-Page-Diagram_Amazon-CloudWatch.095eb618193be7422d2d34e3abd5fdf178b6c0e2.png",
-    "Domain 2 - Logging and Monitoring/Amazon CloudWatch.md",
     "Domain 1 - Incident Response/Document - Unified CloudWatch Agent.md",
     "Domain 2 - Logging and Monitoring/Domain 2 (General notes).md",
     "00_Overview",
     "Domain 2 - Logging and Monitoring/Diagram",
     "Domain 5 - Data Protection/Diagram",
-    "AWS-Certified-Security-Specialty_Exam-Guide.pdf",
     "Domain 3 - Infrastructure Security",
     "Domain 4 - Identity and Access Management",
     "Domain 5 - Data Protection",
-    "Appendix.md",
     "Domain 2 - Logging and Monitoring/Amazon Inspector.md",
     "Domain 2 - Logging and Monitoring/AWS Systems Manager.md"
   ]
