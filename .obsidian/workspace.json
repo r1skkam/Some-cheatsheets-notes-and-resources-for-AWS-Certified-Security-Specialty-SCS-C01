@@ -8,27 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc827b0dfcedc236",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "66dc6a88f2f5cc7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain 2/Amazon CloudWatch.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db54d1beed5fb865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Appendix.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 669.5
   },
   "right": {
     "id": "b8f129c550c4be43",
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain 2/Amazon CloudWatch.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain 2/Amazon CloudWatch.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain 2/Amazon CloudWatch.md"
+                "file": "README.md"
               }
             }
           }
@@ -157,12 +160,28 @@
   },
   "active": "66dc6a88f2f5cc7c",
   "lastOpenFiles": [
-    "Domain 2/Amazon Inspector.md",
-    "Domain 2/Amazon CloudWatch.md",
-    "Product-Page-Diagram_Amazon-CloudWatch.095eb618193be7422d2d34e3abd5fdf178b6c0e2.png",
-    "Domain 2/AWS Systems Manager.md",
+    "00_Overview/Domain 1 - Incident Response.md",
+    "Domain 2 - Logging and Monitoring/Domain 2 (General notes).md",
+    "00_Overview",
     "inventory-resource-data-sync.png",
     "inventory-cards.png",
-    "Domain 2/Domain 2 (General notes).md"
+    "00_Overview/Domain 5 - Data Protection.md",
+    "00_Overview/Domain 4 - Identity and Access Management.md",
+    "00_Overview/Domain 3 - Infrastructure Security.md",
+    "00_Overview/Domain 2 - Logging and Monitoring.md",
+    "Domain 2 - Logging and Monitoring/Diagram/Product-Page-Diagram_Amazon-CloudWatch.095eb618193be7422d2d34e3abd5fdf178b6c0e2.png",
+    "Domain 2 - Logging and Monitoring/Diagram",
+    "Domain 5 - Data Protection/Diagram/product-page-diagram_AWS-CloudHSM_HIW.76ce14889e22d8861a6a9fff0b5664516ed1bddd.png",
+    "Domain 5 - Data Protection/AWS CloudHSM.md",
+    "Domain 5 - Data Protection/Diagram",
+    "Domain 1 - Incident Response/Amazon CloudWatch.md",
+    "AWS-Certified-Security-Specialty_Exam-Guide.pdf",
+    "Domain 3 - Infrastructure Security",
+    "Domain 4 - Identity and Access Management",
+    "Domain 5 - Data Protection",
+    "Appendix.md",
+    "Domain 2 - Logging and Monitoring/Amazon CloudWatch.md",
+    "Domain 2 - Logging and Monitoring/Amazon Inspector.md",
+    "Domain 2 - Logging and Monitoring/AWS Systems Manager.md"
   ]
 }

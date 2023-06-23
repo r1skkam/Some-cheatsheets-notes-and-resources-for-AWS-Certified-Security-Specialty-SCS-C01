@@ -4,15 +4,15 @@
 
 [AWS Certified Security - Specialty Certification | AWS Certification | AWS](https://aws.amazon.com/certification/certified-security-specialty/)
 
-### Domain 1: Incident Response 12%
+**Domain 1: Incident Response 12%**
 
-### Domain 2: Logging and Monitoring 20%
+**Domain 2: Logging and Monitoring 20%**
 
-### Domain 3: Infrastructure Security 26%
+**Domain 3: Infrastructure Security 26%**
 
-### Domain 4: Identity and Access Management 20%
+**Domain 4: Identity and Access Management 20%**
 
-### Domain 5: Data Protection 22%
+**Domain 5: Data Protection 22%**
 
 https://courses.datacumulus.com/downloads/certified-security-specialty-76f4/
 
