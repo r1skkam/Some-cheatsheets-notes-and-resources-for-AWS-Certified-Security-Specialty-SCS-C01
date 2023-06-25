@@ -14,6 +14,7 @@
 
 ![[product-page-diagram_AWS-CloudHSM_HIW.76ce14889e22d8861a6a9fff0b5664516ed1bddd.png]]
 
+https://github.com/r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-Certified-Security-Specialty-SCS-C01/blob/main/Domain%205%20-%20Data%20Protection/Diagram/product-page-diagram_AWS-CloudHSM_HIW.76ce14889e22d8861a6a9fff0b5664516ed1bddd.png
 
 [AWS CloudHSM - AWS cryptography services](https://docs.aws.amazon.com/crypto/latest/userguide/awscryp-service-hsm.html)
 
