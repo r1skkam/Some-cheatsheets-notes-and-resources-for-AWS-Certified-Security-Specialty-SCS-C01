@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain 5 - Data Protection/AWS CloudHSM.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14d721536812e6d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Just Cleared.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain 5 - Data Protection/AWS CloudHSM.md",
+                "file": "Just Cleared.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain 5 - Data Protection/AWS CloudHSM.md",
+                "file": "Just Cleared.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain 5 - Data Protection/AWS CloudHSM.md"
+                "file": "Just Cleared.md"
               }
             }
           }
@@ -156,15 +169,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80cdae7a45df21c2",
+  "active": "14d721536812e6d0",
   "lastOpenFiles": [
-    "Domain 2 - Logging and Monitoring/Amazon CloudWatch.md",
+    "README.md",
+    "Just Cleared.md",
+    "KPLABS+-+AWS+Security+-+Specialty+Notes+NEW.pdf",
+    "AWS+Security+Specialty+Training+Notes.pdf",
     "Domain 5 - Data Protection/AWS CloudHSM.md",
+    "Domain 2 - Logging and Monitoring/Amazon CloudWatch.md",
     "AWS-Certified-Security-Specialty_Exam-Guide.pdf",
     "Appendix.md",
     "00_Overview/inventory-resource-data-sync.png",
     "00_Overview/inventory-cards.png",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "00_Overview/Domain 5 - Data Protection.md",
     "00_Overview/Domain 4 - Identity and Access Management.md",

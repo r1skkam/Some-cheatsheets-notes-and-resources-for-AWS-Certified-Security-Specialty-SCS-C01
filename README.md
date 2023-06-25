@@ -29,3 +29,12 @@ https://aws.amazon.com/certification/certification-prep/
 [AWS-Certified-Security-Specialty_Exam-Guide.pdf](https://github.com/r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-Certified-Security-Specialty-SCS-C01/blob/main/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
 
 [aws-security-incident-response-guide.pdf](https://github.com/r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-Certified-Security-Specialty-SCS-C01/blob/main/aws-security-incident-response-guide.pdf)
+
+[AWS Certified Security – Specialty (SCS-C01) Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Security_Specialty_Sample_Questions.pdf)
+
+[Free & Accurate Amazon AWS Certified Security - Specialty Practice Questions | ExamTopics](https://www.examtopics.com/exams/amazon/aws-certified-security-specialty/)
+
+https://dct-scs-tn-1am0z.s3.amazonaws.com/AWS+Security+Specialty+Training+Notes.pdf
+
+https://www.whizlabs.com/blog/aws-security-specialty-exam-questions/
+
